@@ -1,0 +1,6 @@
+LOCUS       N1R                       24 bp ds-DNA     linear       01-APR-2020
+DEFINITION  .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 TCTGGTTACT GCCAGTTGAA TCTG
+//

@@ -1,0 +1,6 @@
+LOCUS       E_Sarbeco_R2              22 bp ds-DNA     linear       15-APR-2020
+DEFINITION  .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ATATTGCAGC AGTACGCACA CA
+//

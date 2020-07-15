@@ -1,0 +1,6 @@
+LOCUS       EU-Drosten-N-COVID-19-R   20 bp ds-DNA     linear       14-APR-2020
+DEFINITION  .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 GAGGAACGAG AAGAGGCTTG
+//

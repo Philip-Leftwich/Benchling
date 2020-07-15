@@ -1,0 +1,5 @@
+1-Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2SP02human2020BRA
+ACCESSION: MT126808
+ORGANISM: Severe acute respiratory syndrome coronavirus 2 Viruses; Riboviria; Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae; Betacoronavirus; Sarbecovirus.
+SOURCE: Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+VERSION: MT126808.1

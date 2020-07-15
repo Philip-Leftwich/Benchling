@@ -1,0 +1,5 @@
+NC_004718
+ACCESSION: NC_004718 NC_028845 NC_028858 NC_028866 NC_028873 NC_028884 NC_028893
+ORGANISM: Severe acute respiratory syndrome-related coronavirus Viruses; Riboviria; Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae; Betacoronavirus; Sarbecovirus.
+SOURCE: Severe acute respiratory syndrome-related coronavirus
+VERSION: NC_004718.3

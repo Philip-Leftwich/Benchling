@@ -1,0 +1,6 @@
+LOCUS       N3_R                      21 bp ds-DNA     linear       03-APR-2020
+DEFINITION  .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 tgtagcacga ttgcagcatt g
+//

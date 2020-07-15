@@ -1,0 +1,6 @@
+LOCUS       2019-nCoV_RP-R_nCoV-2019_ 20 bp ds-DNA     linear       14-APR-2020
+DEFINITION  .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 GAGCGGCTGT CTCCACAAGT
+//

@@ -1,0 +1,6 @@
+LOCUS       N1_Internal_oligo         24 bp ds-DNA     linear       03-APR-2020
+DEFINITION  .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 accccgcatt acgtttggtg gacc
+//

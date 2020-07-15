@@ -1,0 +1,37 @@
+LOCUS       MT126808_[15431-15530]   100 bp ds-DNA     linear       15-APR-2020
+DEFINITION  .
+ACCESSION   MT126808                                                           
+VERSION     MT126808.1                                                         
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)       
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2 Viruses; Riboviria;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+FEATURES             Location/Qualifiers
+     gene            1..100
+                     /label="orf1ab gene"
+                     /ApEinfo_revcolor=#75c6a9
+                     /ApEinfo_fwdcolor=#75c6a9
+     primer          39..64
+                     /label="RdRP_SARSr-P1"
+                     /note="sequence: CCAGGTGGWACRTCATCMGGTGATGC"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     primer          complement(75..100)
+                     /label="RdRP_SARSr-R1"
+                     /note="sequence: CARATGTTAAASACACTATTAGCATA"
+                     /ApEinfo_revcolor=#9eafd2
+                     /ApEinfo_fwdcolor=#9eafd2
+     primer          1..22
+                     /label="RdRP_SARSr-F2"
+                     /note="sequence: GTGARATGGTCATGTGTGGCGG"
+                     /ApEinfo_revcolor=#9eafd2
+                     /ApEinfo_fwdcolor=#9eafd2
+     primer          40..64
+                     /label="RdRP_SARSr-P2"
+                     /note="sequence: CAGGTGGAACCTCATCAGGAGATGC"
+                     /ApEinfo_revcolor=#b7e6d7
+                     /ApEinfo_fwdcolor=#b7e6d7
+ORIGIN
+        1 GTGARATGGT CATGTGTGGC GGttcactat atgttaaacc aggtggaacc tcatcaggag
+       61 atgccacaac tgctTATGCT AATAGTGTST TTAACATYTG
+//

@@ -1,0 +1,6 @@
+LOCUS       NIID-2019-nCOV_N-F        20 bp ds-DNA     linear       14-APR-2020
+DEFINITION  .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 AAATTTTGGG GACCAGGAAC
+//

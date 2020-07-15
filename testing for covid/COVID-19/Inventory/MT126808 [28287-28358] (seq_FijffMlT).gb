@@ -1,0 +1,35 @@
+LOCUS       MT126808_[28287-28358]    72 bp ds-DNA     linear       14-APR-2020
+DEFINITION  .
+ACCESSION   MT126808                                                           
+VERSION     MT126808.1                                                         
+SOURCE      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)       
+  ORGANISM  Severe acute respiratory syndrome coronavirus 2 Viruses; Riboviria;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+FEATURES             Location/Qualifiers
+     gene            1..72
+                     /label="N gene"
+                     /ApEinfo_revcolor=#b7e6d7
+                     /ApEinfo_fwdcolor=#b7e6d7
+     source          1..72
+                     /label="patient traveled from Switzerland and Italy (Milan)to Brazil"
+                     /ApEinfo_revcolor=#d6b295
+                     /ApEinfo_fwdcolor=#d6b295
+     CDS             1..72
+                     /label="N CDS"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     primer          complement(49..72)
+                     /label="N1R"
+                     /note="sequence: TCTGGTTACTGCCAGTTGAATCTG"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     primer          1..20
+                     /label="N1F"
+                     /note="sequence: GACCCCAAAATCAGCGAAAT"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+ORIGIN
+        1 GACCCCAAAA TCAGCGAAAT gcaccccgca ttacgtttgg tggaccctCA GATTCAACTG
+       61 GCAGTAACCA GA
+//

@@ -1,0 +1,5 @@
+MT126808 [28287-28358]
+ACCESSION: MT126808
+ORGANISM: Severe acute respiratory syndrome coronavirus 2 Viruses; Riboviria; Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae; Betacoronavirus; Sarbecovirus.
+SOURCE: Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+VERSION: MT126808.1

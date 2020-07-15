@@ -1,0 +1,6 @@
+LOCUS       N2_R                      18 bp ds-DNA     linear       03-APR-2020
+DEFINITION  .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gcgcgacatt ccgaagaa
+//

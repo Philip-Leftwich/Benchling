@@ -1,0 +1,6 @@
+LOCUS       N2_F                      20 bp ds-DNA     linear       03-APR-2020
+DEFINITION  .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 ttacaaacat tggccgcaaa
+//

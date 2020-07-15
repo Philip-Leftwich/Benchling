@@ -1,0 +1,5 @@
+5-Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoVUSA-CruiseA-12020, complete genome
+ACCESSION: MT159717
+ORGANISM: Severe acute respiratory syndrome coronavirus 2 Viruses; Riboviria; Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae; Betacoronavirus; Sarbecovirus.
+SOURCE: Severe acute respiratory syndrome coronavirus 2 (SARS-CoV2)
+VERSION: MT159717.1
